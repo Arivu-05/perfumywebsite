@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Perfumy</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div class="header">
+        <nav>
+        <h1>Perfumy</h1>
+            <ul>
+                <li>Home |</li>
+                <li>Products |</li>
+                <li>About |</li>
+                <li>contact</li>
+            </ul>
+    </nav>
+
+    </div>
+
+    <div class="searchbar">
+        <input placeholder="Search">
+
+
+    </div>
+
+    <div class="products">
+        <div class="box">
+            <img src="https://source.unsplash.com/220x220/?perfume?1">
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veritatis error voluptates fugiat esse, reiciendis doloribus?</p>
+        </div>
+
+        <div class="box">
+            <img src="https://source.unsplash.com/220x220/?perfume?2">
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veritatis error voluptates fugiat esse, reiciendis doloribus?</p>
+        </div>
+
+        <div class="box">
+            <img src="https://source.unsplash.com/220x220/?perfume?3">
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veritatis error voluptates fugiat esse, reiciendis doloribus?</p>
+        </div>
+
+    </div>
+
+    <div class="about">
+        <h2>About Us</h2>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam, debitis excepturi error consequuntur officiis esse commodi illum voluptatum fugit perferendis impedit? Odit incidunt, corrupti illum libero praesentium tenetur. Optio possimus necessitatibus in deleniti vitae quam officiis doloribus repudiandae voluptatum dignissimos deserunt accusantium tempora, eveniet perferendis debitis placeat illo rem ullam?</p>
+
+    </div>
+
+    <div class="contact">
+        <h4>Contact</h4>
+        <p>1234567890</p>
+        <p>purfumy@gmail.com</p>
+        <p style="margin-top: 40px; font-size: 10px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo temporibus placeat illo vero et, ea labore laboriosam esse soluta, reiciendis odit animi porro corrupti, cupiditate atque ex voluptates dignissimos perspiciatis ipsa? Ea, quos quam voluptate officiis aliquid repellendus cum libero numquam enim in maiores debitis ratione esse iusto, voluptas laudantium porro. Ut deserunt ex vel omnis at possimus, vero perferendis saepe dolore. Recusandae reiciendis natus dolores distinctio, repellat alias dolor commodi sequi? Pariatur est, nemo veritatis laudantium accusantium numquam? Dolores veniam recusandae a soluta eius. Sunt amet quae laudantium sit quam quasi quo possimus, cum sint! Beatae officiis saepe deserunt.</p>
+
+    </div>
+
+</body>
+</html>
